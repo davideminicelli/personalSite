@@ -13,14 +13,14 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hello, I'm davide Minicelli
+          Hello, I&apos;m davide Minicelli
         </h1>
 
         <h2 className={styles.description}>
-          And I'm a web developer  
+          And I&apos;m a web developer  
         </h2>
 
-        <p>I'm sorry, this site is being revamped, check again in a few days!</p>
+        <p>I&apos;m sorry, this site is being revamped, check again in a few days!</p>
       </main>
     </div>
   )
